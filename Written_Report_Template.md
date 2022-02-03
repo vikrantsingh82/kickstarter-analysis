@@ -14,7 +14,8 @@
 		b. determine which funding targets (goals) were most successful, failure or canceled for the campaign whose subcategory was "Plays" 
 
 ## Analysis and Challenges
-	
+	![image](https://user-images.githubusercontent.com/98173091/152439467-720d4e06-b4eb-44da-8dec-82d3e7725a30.png)
+
 
 ### Analysis of Outcomes Based on Launch Date
 
