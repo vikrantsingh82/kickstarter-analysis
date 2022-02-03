@@ -14,7 +14,9 @@
 		b. determine which funding targets (goals) were most successful, failure or canceled for the campaign whose subcategory was "Plays" 
 
 ## Analysis and Challenges
-	![image](https://user-images.githubusercontent.com/98173091/152439780-b0cf555f-5dc1-4219-8dd0-ec65990f6e15.png)
+	
+	https://github.com/vikrantsingh82/kickstarter-analysis/blob/0ab56231e80eb0a7fffdf384930d8237eb49e9f7/Theater_Outcomes_vs_Launch.png
+
 
 
 ### Analysis of Outcomes Based on Launch Date
