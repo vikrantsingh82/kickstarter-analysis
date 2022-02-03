@@ -15,7 +15,7 @@
 
 ## Analysis and Challenges
 	
-	https://github.com/vikrantsingh82/kickstarter-analysis/blob/0ab56231e80eb0a7fffdf384930d8237eb49e9f7/Theater_Outcomes_vs_Launch.png
+	Theater_Outcomes_vs_Launch.png
 
 
 
