@@ -75,7 +75,7 @@
 ### Challenges and Difficulties Encountered
 
 	CHALLENGES
-	Challenges and under the analysis section.
+	Challenges are under the analysis section.
 	
 	DIFFICULTIES
 	1. Biggest hurdle was to work with GitHub, i'm still struggling.
