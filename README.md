@@ -33,7 +33,7 @@
 	"Outcomes based on Goals" excercise for all Goals >= 1000 and <4999 and subcategory ="Play" 
 	and outcomes ="Successfull" or "failed".
 
-### Image - Challenge COUNTIF Complexity 
+### Image - Challenge COUNTIFS Complexity 
 ![COUNTIFS](https://user-images.githubusercontent.com/98173091/152464471-42e87666-47d0-4e92-9fc7-10779d466cee.png)
 
 ### Image - Understanding Dates in Pivot Table Row Areas
