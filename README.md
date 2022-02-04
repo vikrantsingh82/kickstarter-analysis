@@ -50,7 +50,7 @@
 		4. Values - added outcomes, becuase we wanted to see the count of each outcome.
 	
 	CHALLENGES
-	Possible challenges could be understaing the additon of Year, Quarter in Row section while 
+	Possible challenges could be understanding the additon of Year, Quarter in Row section while 
 	adding the "Date Created" into Row Section	
 
 ### Image - Outcomes Based on Launch Date
