@@ -2,8 +2,8 @@
 
 ## Overview of Project
 
-	Louise has got numerous data points about how different campaigns fared over the years in different countries 
-	along with the dates, goals, outcomes and its respective categories. 
+	Louise has got numerous data points about how different campaigns fared over the years in different 
+	countries along with the dates, goals, outcomes and its respective categories. 
 	He/She wants to visualize campaign outcomes based on their 
 		a. launch dates and 
 		b. funding goals
@@ -18,13 +18,13 @@
 
 ## Analysis and Challenges
 	
-	After the intial analysis of the data it appeared to be just a stored data not providing much of intelligent 
-	or actionable information. 
+	After the intial analysis of the data it appeared to be just a stored data not providing much of 
+	intelligent or actionable information. 
 	We knew we could get the information we wanted using 
 		- pivot tables and charts
 		- fucntions like years, sum, vlookup and countif etc.
-	Once the data was formatted and new data created using fucntions, pivot table and charts were inserted into 
-	new sheets we could draw conclusions.
+	Once the data was formatted and new data created using fucntions, pivot table and charts were 
+	inserted into new sheets we could draw conclusions.
 	
 	CHALLENGES
 	1. "Deadline" and "Launched" columns had just numbers and i did not have any idea about what data it is.
@@ -85,11 +85,11 @@
 
 #### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-	1. Campaigns launched in May,Jun and Jul in all years are most successfull for not just "Theater" but for 
-	all categories as well. This is telling us people tend to go out and spend time to watch theatre 
+	1. Campaigns launched in May,Jun and Jul in all years are most successfull for not just "Theater" but 
+	for all categories as well. This is telling us people tend to go out and spend time to watch theatre 
 	during summers which is also the time for school summer vacations.
-	2. Campaigns launched (Theater or all Categories) (after mid year) towards the year end tend to fail, this 
-	could be because of ending of yearly budget and year end vacations.
+	2. Campaigns launched (Theater or all Categories) (after mid year) towards the year end tend to fail, 
+	this could be because of ending of yearly budget and year end vacations.
 
 #### What can you conclude about the Outcomes based on Goals?
 
