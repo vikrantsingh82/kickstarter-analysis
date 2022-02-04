@@ -54,21 +54,21 @@
 
 ### Results
 
-# What are two conclusions you can draw about the Outcomes based on Launch Date?
+#### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 	1. Campaigns launched in May,Jun and Jul in all years are most successfull for not just "Theater" but for all categories as well. This is telling us people tend to go out and spend time to watch theatre during summers which is also the time for school summer vacations.
 	2. Campaigns launched (Theater or all Categories) (after mid year) towards the year end tend to fail, this could be because of ending of yearly budget and year end vacations.
 
-# What can you conclude about the Outcomes based on Goals?
+#### What can you conclude about the Outcomes based on Goals?
 
 	For Category "Plays" - Smaller the Goals, Higher is the Success Rate. 
 	As we increase campaigns' funding goal to highr values it tend to fail more, with only exception of funding goal of $30,000 - $45,000 where it saw a success rate of 66%. Goals of $45000 and above are absolute failure(only 12% success), we can divert our efforts towards campaigns wih goals of $0- $20000 range which has success rate of more than 50% 
 	
-# What are some limitations of this dataset?
+#### What are some limitations of this dataset?
 	
 	The dataset was limited to just 4114 data points (sample size was small) when we consider the # of countries involved.
 
-# What are some other possible tables and/or graphs that we could create?
+#### What are some other possible tables and/or graphs that we could create?
 	
 	We could have created more tables and graphs to determine 
 		1. Country specific Outcomes for each category
